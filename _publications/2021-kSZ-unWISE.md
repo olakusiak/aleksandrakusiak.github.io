@@ -2,7 +2,7 @@
 title: "Constraining the Baryon Abundance with the Kinematic Sunyaev-Zel'dovich Effect: Projected-Field Detection Using Planck, WMAP, and unWISE"
 collection: publications
 permalink: /publication/2021-kSZ-unWISE
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-8-16
 venue: 'Physical Review D'
 paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.043518'
