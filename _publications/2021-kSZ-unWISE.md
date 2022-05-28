@@ -6,7 +6,7 @@ excerpt: 'This paper is about kSZ'
 date: 2022-08-16
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/abs/2203.12583'
-citation: 'A. Kusiak, B. Bolliet, A. Krolewski, S. Ferraro, and J. C. Hill.  ``Constraining the Baryon Abundance with the Kinematic Sunyaev Zel'dovich Effect: Projected-Field Detection Using Planck, WMAP, and unWISE'' (2021).  Phys. Rev. D, 104, 043518.'
+citation: 'A. Kusiak, B. Bolliet, A. Krolewski, S. Ferraro, and J. C. Hill.  ``Constraining the Galaxy-halo Connection of Infrared-selected unWISE Galaxies with Galaxy Clustering and Galaxy-CMB Lensing Power Spectra'' (2022).  arXiv:2203.12583 [astro-ph.CO].'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
