@@ -6,7 +6,7 @@ excerpt: 'This paper is about kSZ'
 date: 2021-08-16
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/abs/2203.12583'
-citation: 'A. Kusiak, B. Bolliet, A. Krolewski, and J. C. Hill.  ``Constraining the Galaxy-halo Connection of Infrared-selected unWISE Galaxies with Galaxy Clustering and Galaxy-CMB Lensing Power Spectra'' (2022).  arXiv:2203.12583 [astro-ph.CO].'
+citation: 'A. Kusiak, B. Bolliet, A. Krolewski, and J. C. Hill.  "Constraining the Galaxy-halo Connection of Infrared-selected unWISE Galaxies with Galaxy Clustering and Galaxy-CMB Lensing Power Spectra" (2021).  Phys. Rev. D, 104, 043518.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
