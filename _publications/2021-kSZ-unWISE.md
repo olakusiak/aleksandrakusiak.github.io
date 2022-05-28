@@ -6,7 +6,7 @@ excerpt: 'This paper is about kSZ'
 date: 2021-08-16
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/abs/2203.12583'
-citation: 'A. Kusiak, B. Bolliet, S. Ferraro, J. C. Hill, and A. Krolewski,.  "Constraining the Baryon Abundance with the Kinematic Sunyaev-Zel'dovich Effect: Projected-Field Detection Using Planck, WMAP, and unWISE" (2021).  Phys. Rev. D, 104, 043518.'
+citation: 'A. Kusiak, B. Bolliet, S. Ferraro, J. C. Hill, and A. Krolewski. "olik" Phys. Rev. D, 104, 043518.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
