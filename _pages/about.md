@@ -16,3 +16,8 @@ I am graduate student in [Colin Hill’s](http://user.astro.columbia.edu/~jch/) 
 I am a member of the [Atacama Cosmology Telescope](https://act.princeton.edu/) and the [Simons Observatory](https://simonsobservatory.org/).
 
 <!-- I got my BA in Physics from University of Pennsylvania in 2019. -->
+
+Contact 
+======
+
+email me at akk2175@columbia.edu
